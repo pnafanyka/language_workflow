@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-08-07T12:01:02+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/budya/OneDrive/Документы/Naukan actual texts/Краснодар 2023 материалы/DEA_raven and fox_240623_work.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./DEA_raven and fox_240623_work.wav"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/budya/OneDrive/Документы/Naukan actual texts/Краснодар 2023 материалы/DEA_raven and fox_240623_work_ampl.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./DEA_raven and fox_240623_work_ampl.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f8b16a10-3b93-4183-82ba-b9039addb31e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">276</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="17340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="19680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="35690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="35733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="40100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="40108"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="45558"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="49399"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="49420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="56360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="56420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="57700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="57919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="61306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="62160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="65893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="65906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="68173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="68173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="69886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="70299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="74539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="74566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="81085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="81414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="82785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="82820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="86377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="86699"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="87663"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="88206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="90977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="91857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="99499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="99499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="103963"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="103963"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="108377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="108592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="113228"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="113685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="116656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="117370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="120463"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="120465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="123871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="123871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="125804"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="128088"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="129721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="132082"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="135216"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="136927"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="140849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="143449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="147060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="147060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="149049"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="149644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="150910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="153055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="155194"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="155194"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="157771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="157777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="160260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="160666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="167466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="167960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="171144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="171149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="172284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="172284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="173538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="173538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="175438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="176266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="180155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="180155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="182807"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="182938"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="184327"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="184327"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="187544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="188693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="191588"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="191588"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="193266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="193266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="196327"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="197030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="200783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="201705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="204021"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="206377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="211577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="211861"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="215372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="215449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="218543"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="219545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="225191"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="phrase" TIER_ID="Text-txt-ynk">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>unikpaʁaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>mɨtɨχl̥uk ɨnkam kavilŋuraɣaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>taːna xuːq mɨtɨχl̥uk situχaːquq ɨpn̥ɨkun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>sitoːquq sitoːquq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>naqam taɣʷeːnaq pit situit pikun apɨkun l̥aχoχ l̥aχaχqaqut χː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>taɣʷatɨn sitoːquq mɨtɨχl̥uk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>tutaqn̥ami ɨpn̥am qaŋeːnun tɨnaquq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>tanɨm utɨχtaquq taɣʷatɨn situχaːquq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>situχaʁmaluki ta situχaʁumaluku mɨtɨχl̥uk kavilŋuraɣaq tutuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>kasuχtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>peːquq ɣʷi amta situχaʁjuʁaqo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>mɨtɨχl̥um peːqaː imamun ixl̥ɨqutɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>kil̥ɨqutɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>naːmi naːmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>amta ɣʷi situχaʁjuɣaqo == tan?? peːqamkɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ipn̥akun ij̊l̥ɨqutɨn imamun kil̥ɨqutɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>naːmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ii qɨnɣʷat taːna anɨxtuq mɨtɨχl̥uk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>sitoː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>sito:quq ta:na kavilŋuraɣaq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>taɣʷeːnaq situit apɨkun l̥aχoχ (оговорка) l̥aχaχχaqut l̥χː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>taːna sitoːquq kavilŋuraɣaq l̥χː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ɨpn̥a ɨpn̥aq naŋuq ixtuq imamun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>eːsxi kitɨkataquq aʁeːqʷ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>amuŋa amuŋa imamɨŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>mɨtɨχl̥um peːqaː ɣʷaninɨŋ peːqakɨmkɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>kil̥ɨqutɨn ux ixl̥ɨqutɨn kil̥ɨqutɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>amoː imamɨŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>kavilŋum peː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>qujapixto amujaxpɨŋa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ɣʷaŋkunun aʁɨl̥ta == taːmani</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>quiŋiq uɣulaχtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>quiŋimɨŋ tunl̥ɨqamkɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ɨɣlɨχtaquk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>ɨɣlɨχtaqut iɣlɨχtaqut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>pɨŋuχqaqsi kitoːʁa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>naːm takut quiŋit</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>pɨŋuχqam ili ileni pɨŋuχqam amɨŋ at amatn̥ani quiŋit ɨtaqut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>tanɨm pɨŋuχqaq taːna kituʁaːt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>piːtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>quiŋiːtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>naːm quiŋit</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>ileːni ileːn pɨŋuχqam amatn̥ani</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>taɣʷatɨn ɨɣlɨχtaqut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>tanɨm piːtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>pɨŋuχqaq kituʁat tanɨm quiŋiːtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>amal̥i ɨl̥pɨk iql̥uːʁaχpɨŋa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>qɨnɣʷat mɨtɨχl̥uk taːna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>qɨvŋami ɨtχakun itɨχtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>tam e kavilŋum iloːni takut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>ɨlʁavit pukuxtuʁeːt</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>iχsaqoː pukuʁnaqaqa iχsaqoː taːna aɣʷitɨl̥qaquq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>qɨnɣʷat pukuɣa taːna iχsaqoː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a180"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>kavilŋuraɣaq uvɨχtuq tuquq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>taːna mɨtɨχl̥uk anuq taɣʷxkɨn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="note" PARENT_REF="Text-txt-ynk" TIER_ID="Translation-gls-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Сказка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>"Ворон и Лисичка".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Говорят, этот ворон катается по скале.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Катится, катится</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>и только коготки скрежещут по снегу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Так скатывается ворон.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Когда доходит до конца скалы, взлетает.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Опять возвращается. Таким образом он катается.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Пока катался ворон, лисичка пришла.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Подошла.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Говорит: "Я тоже хочу кататься".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Ворон говорит ей: "В море упадешь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Утонешь".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>"Нет! Нет!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>Я тоже хочу кататься". "Еще раз тебе говорю!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Со скалы упадешь в море --- утонешь!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>"Нет!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>"Да!" - наконец этот ворон согласился, -</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Катись!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Катится эта лисичка.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>Только ее когти по снегу скрежещут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Эта лисичка катится х-х-х.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Скала кончилась - упала в море.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>Только начала тонуть, закричала.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>"Вытащи, вытащи меня из моря!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Ворон сказал: "Я же тебе говорил:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>упадешь --- утонешь".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Вытащил ее из моря.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>Лиса сказала ему:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>Я очень рада, что ты меня вытащил. (может быть и благодарю,что вытащил)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>К нам пойдем, там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>много оленей.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>Оленя тебе дам.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>Идут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>Идут, идут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>Бугорок прошли мимо.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>"Где же эти олени?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>"За другим бугорком находятся олени".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>Опять бугорок этот прошли.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>Ничего нет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>Нету оленей.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>"А где же олени?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>За другим бурком</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>Так они идут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>Опять нет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>Бугорок прошли - опять нету оленей.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>"Наверное, ты меня обманула!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>Наконец ворон этот,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>рассердившись, зашел через задний проход.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>Внутри лисицы эти</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>внутренности стал клевать.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>Хочет клюнуть ее сердце, а это сердце отскакивает.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a178">
+                <ANNOTATION_VALUE>Наконец, клюнул он это ее сердце.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>Лисичка упала и сдохла.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>И этот ворон тогда вышел.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Orthography-note-ru"/>
+    <TIER LINGUISTIC_TYPE_REF="text" TIER_ID="Interlinear-title-en"/>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Comment-note-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ЕА: Это может быть и лисичка, и лисенок.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Елизавета Алихановна пояснила, что sitoːquq означает именно "он катится", как про детей на санках.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>atχaquq = спускается ногами. Mikisqit situχaːquq qanraxkun = дети катаются на санках</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>situk = коготь, situt = когти, situit = его коготки, l̥aχoχ... = хрустеть, l̥aχaχqumat = скрежетали. Позже при разборе ЕА поправится, что это все-таки когти, но на -t она настаивает.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Елизавета Алихановна при разборе пояснила, что слово kaŋiq означает кроме бухты и залива еще и край, например, для может использоваться для обозначения края стола.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Е.А.: kasuːtuq samɨŋmi = что-то принес, kasuχtuq = он подошел</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>ЕА: надо tanɨm вместо tan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>При разборе Елизавета Алихановна уточнила, что форма с пролативом --- оговорка, а нужно было сказать ipn̥amɨŋ. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>А еще ВГ говорила, что ситу = катись</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>situraɣet = коготки</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>ixtɨ = упасть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>ЕА: лучше тут сказать kitɨkataːmi = начав тонуть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>ЕА: amoːqamkɨn = я тебя вытаскиваю, amoːχpɨŋa = ты меня вытащил, amui = вытащи, amuiŋa = вытащи для меня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>ЕА: peːqakɨmkɨn = я тебе говорил, предупреждал, peːqamkɨn = я тебе говорю, peːmkɨn = я тебе сказал, pimamkɨn = я тебе говорил, (pitamkɨn = другое слово, petɨfkamkɨn = я сделал так, что у тебя не получилось, что ты не получил))</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>pijaqul̥ɨq = катастрофа на море, pijaqumaqʷ = погиб на море</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>quja = быть благодарным, qujakɨ = благодарить, amuxpɨŋa = не вытаскивай меня (по Меновщикову это, вроде, не вытаскивай, субъектный)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>ЕА: aʁaqukut = мы идем в сторону</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>При разборе Елизавета Алихановна указала, что тут должна быть форма двойственного числа ɨɣlɨχtaquk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>При разборе ЕА предлагает kituʁak = они двое прошли мимо бугорка, kituʁaqa = я прошла бугорок, kituʁaqo = я прохожу мимо</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>(говорит ворон)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>kituʁaːk = двое обошли бугорок</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>piːtɨ (pi+ŋitɨ) = недоставать, не иметься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>ЕА ɨɣlɨχtɨ-aq-u-k</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>ЕА: его внутренности ɨlʁaviːt (кажется, при разборе был долгий и)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>uvʁumaqʷ = он падал, uvɨχsimaː = его уронил в строну, *uvɨχsimaq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="morph"
+        PARENT_REF="Text-txt-ynk" TIER_ID="morpheme">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>unikpaʁaq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>mɨtɨχl̥uk ɨnkam kavilŋu-raɣaq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>taːna xuːq mɨtɨχl̥uk situ-χaːʁ?-aq-u-q ɨpn̥ɨ?-kun</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>situ-aq-u-q situ-aq-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>naqam taɣʷeːnaq pi-t situ-iːt pikun apɨkun l̥aχaχ-q-aq-u-t χː?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>taɣʷatɨn situ-aq-u-q mɨtɨχl̥uk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>tutɨ-aqŋ̊a-mi ɨpn̥a-m kaŋi-aː-nun tɨŋɨ-aq-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>tanɨm utɨχtɨ-aq-u-q taɣʷatɨn situ-χaʁ-aq-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>situ-χaʁ-malu-ki ta situ-χaʁ-u?malu-ku mɨtɨχl̥uk kavilŋu-raɣaq tutɨ-∅-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>kasuʁ-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>pi-aq-u-q ɣʷi amta situ-χaʁ-juɣ-aq-u-ŋa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>mɨtɨχl̥u-m pi-aq-a-a ima-mun ix-l̥ɨq-u-tɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>ki-l̥ɨq-u-tɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>naːmi naːmi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>amta ɣʷi situ-χaʁ-juɣ-aq-u-ŋa tan?? pi-aq-a-mkɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>ipn̥a-kun ix-l̥ɨq-u-tɨn ima-mun ki-l̥ɨq-u-tɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>naːmi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>ii qɨnɣʷat taːna aŋɨχ-t-u-q mɨtɨχl̥uk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>situ-a??</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>situ-aq-u-q ta:na kavilŋu-raɣaq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>taɣʷeːnaq situ-it apɨ-kun l̥aχoχ l̥aχaχq-aq-u-t l̥χː</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>taːna situ-aq-u-q kavilŋu-raɣaq l̥χː</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>ɨpn̥a ɨpn̥aq naŋɨ-∅-u-q ixtɨ-∅-u-q ima-mun</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>eːsxi kitɨ-kata-aq-u-q aʁi-∅-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>amu-?-ŋa amu-?-ŋa ima-mɨŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>mɨtɨχl̥u-m pi-aq-a-a ɣʷaninɨŋ pi-aq??-aq-a-mkɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>ki-l̥ɨq-u-tɨn ux ix-l̥ɨq-u-tɨn ki-l̥ɨq-u-tɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>amu-∅-a-a ima-mɨŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>kavilŋu-m pi-∅-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>quja-pix-t-u-ŋa amu-ja??-χpɨŋa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>ɣʷaŋkut-mun aɣɨ-l̥-ta == taːmani</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>quiŋiq uɣlaʁ-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>quiŋi-mɨŋ tunɨ-l̥ɨq-a-mkɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>ɨɣlɨχtɨ-aq-u-k</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>ɨɣlɨχtɨ-aq-u-t iɣlɨχtɨ-aq-u-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>pɨŋuχqaq kituʁ-∅-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>na=am taku-t quiŋi-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>pɨŋuχqa-m ila-i? ila-i-ni? pɨŋuχqa-m amatn̥a-ni quiŋi-t ɨtɨ-aq-u-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>tanɨm pɨŋuχqaq taːna kituʁ-∅-a-at</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>piːtɨ-∅-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>quiŋi-i-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>na=am quiŋi-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>ila-i-ni ila-i-n pɨŋuχqa-m amatn̥a-ni</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>taɣʷatɨn ɨɣlɨχtɨ-aq-u-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>tanɨm piːtɨ-∅-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>pɨŋuχqaq kituʁ-∅-a-at? tanɨm quiŋi-i-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>amal̥i ɨl̥pɨk iql̥uːʁ-∅-a-χpɨŋa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>qɨnɣʷat mɨtɨχl̥uk taːna</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>qɨvɨ-ŋa-mi ɨtχ??-a-kun itɨʁ-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>kavilŋu-m ilu-a-ni taku-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>ɨlʁavi-t pukux??tuʁ-∅-a-it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>iχsaqu-a pukuɣ-naq-aq-a-a iχsaqu-a taːna aɣʷitɨ-l̥q-aq-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a178">
+                <ANNOTATION_VALUE>qɨnɣʷat pukuɣ-∅-a-a taːna iχsaqu-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>kavilŋu-raɣaq uvɨʁ-t-u-q tuqu-∅-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>taːna mɨtɨχl̥uk anɨ-∅-u-q taɣʷxkɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="gloss"
+        PARENT_REF="Text-txt-ynk" TIER_ID="gloss">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>сказка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ворон и лиса-DIM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>этот мол ворон катиться-БЕСКОНЕЧНО?-PRS-IND-3SG.S утес-PROL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>катиться-PRS-IND-3SG.S катиться-PRS-IND-3SG.S</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>так только HES-PL коготь-PL.POSS.3PL HES-PROL снег-PROL шелестеть-??-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>так катиться-PRS-IND-3SG ворон</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>прибыть-CVB.PREC-3SG.S утес-ERG край-ERG.POSS.3SG-LAT?? взлететь-PRS-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>опять возвращаться-PRS-IND-3SG так спускаться-БЕСКОНЕЧНО-PRS-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>спускаться-БЕСКОНЕЧНО-CVB.DELIM-3PL.O этот спускаться-БЕСКОНЕЧНО-CVB.DELIM-3SG.O ворон лиса-DIM прибыть-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>приближаться-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>сказать-PRS-IND-3SG тоже спускаться-БЕСКОНЕЧНО-DES-PRS-IND-1SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>ворон-ERG сказать-PRS-IND-3SG.S.3SG.O море-LAT упасть-FUT-IND-2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>тонуть-FUT-IND-2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>нет нет</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>тоже я спускаться-БЕСКОНЕЧНО-DES-PRS-IND-1SG опять сказать-PRS-IND-1SG.S.2SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>утес-PROL упасть-FUT-IND-2SG море-LAT тонуть-FUT-IND-2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>нет</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>хорошо наконец этот согласиться-PROX-IND-3SG ворон</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>катиться-IMP.2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>катиться-PRS-IND-3SG этот лиса-DIM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>только коготь-PL.POSS.3PL снег-PROL шелестеть??-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>этот катиться-PRS-IND-3SG лиса-DIM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>утес? утес кончиться-PROX-IND-3SG упасть-PROX-IND-3SG море-LAT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>как.только тонуть-НАЧАТЬ-PRS-IND-3SG кричать-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>вытащить-IMP?-2SG.S.1SG.O вытащить--IMP?-2SG.S.1SG.O море-INST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>ворон-ERG сказать-PRS-IND-3SG.S.3SG.O заранее сказать??</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>тонуть-FUT-IND-2SG ?? упасть-FUT-IND-2SG тонуть-FUT-IND-2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>вытащить-PROX-IND-3SG.S.3SG.O море-INST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>лиса-ERG сказать-PROX-IND-3SG.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>радоваться?-INTS-??-IND-1SG вытащить-?-2SG.S.1SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>1PL-LAT обойти-IMP-1PL там?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>олень много-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>олень-INS отдать-FUT-IND-1SG.S.2SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>идти-PRS-IND-3DU</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>идти-PRS-IND-3PL идти-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>холм обойти-PROX-IND-3SG.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>где=CONJ этот-PL олень-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>холм-ERG ??другой-POSS.3SG другой-OBL.POSS.3SG-LOC холм-ERG позади-LOC? олень-PL быть-PRS-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>опять холм этот обойти-PROX-IND-3PL.S.3SG.S</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>не.иметься-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>олень-NEG?-?-IND-3SG?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>где=CONJ олень-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>??другой-OBL.POSS.3SG-LOC другой-OBL.POSS.3SG-LOC холм-ERG позади-LOC?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>так идти-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>опять не.иметься-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>холм обойти-PROX-IND-3PL.S.3SG.S опять олень-NEG?-??-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>наверное 2SG обмануть-PROX-IND-2SG.S.1SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>наконец ворон этот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>сердиться-CVB.PREC-3SG зад-OBL.POSS.3SG-PROL войти-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>лиса-ERG внутренность-OBL.POSS.3SG-LOC этот-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>внутренность-?PL клевать-PROX-IND-3PL.S.3PL.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>сердце-POSS.3SG клевать-INT-PRS-IND-3SG.S.3SG.O сердце-POSS.3SG этот отойти-??-PRS-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a178">
+                <ANNOTATION_VALUE>наконец клюнуть-PROX-IND-3SG.S.3SG.O этот сердце-POSS.3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>лиса-DIM опрокинуть-PROX-IND-3SG умереть-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>этот ворон выйти-PROX-IND-3SG тогда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Phonetic-note-ynk">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>eːsxi ki kitɨkataquq aʁeːqʷ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>quinʁi quiŋʁil̥usi quinʁi uɣulaχtuq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>pɨŋuχqam ili ileni pɨŋuχqam amɨŋ at amatn̥ani quiŋit ɨtaqut</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="help">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>unikpaʁaq = сказка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>situ = спускаться с горы, ɨpn̥aq = скала, утес, -χaːʁ(a) = не ограниченное во времени и пространстве действие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>nakam = может быть, naqam = ну вот, так что, таким образом, l̥aχatɨ = шуршать, шелестеть, l̥aχaχtaʁ = идти по болоту</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>tɨŋɨ = взлететь, лететь, kanani = внизу, у воды kaŋiq = бухта, залив</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>kasuʁ = приближаться подходить, kasuːtɨ = приходить, приближаться, приносить с собой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>imaq = море, ЕА: ixtaqo = я падаю, ixsimaŋʷa = я упал</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>kitɨ = тонуть, погружаться, kisaq = якорь, ЕА kitaqo = я тону, *kitɨl̥ɨqutɨn, kisimaŋʷa = я утонул</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>aŋɨʁ = согласиться</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>eːsxi = когда, как только, kitɨ = тонуть, aʁi = кричать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>ɣʷani = сейчас, ɣʷaninɨŋ = заранее</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>amoχpɨŋa (ты меня вытащил) тут не подходит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>aɣɨ = обойти стороной, на aʁ... ничего подходящего не нашлось</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>uɣlaʁ = много (быть), uɣlaq = много</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>tunɨ = отдать, вернуть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>pɨŋuχqaq = сопка, холм (от холм pɨŋuq + xqaq)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>ila = друг, товарищ, ileːt = другие, некоторые, iliː = следующий, другой, остальной (ila + притяжательность), ama = вон там, там, amaq = ноша на спине, amatn̥ani = позавчера, позади чего-либо</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>Меновщиков: ɨɣlɨχtaːquq идет куда-либо с чем-либо</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>iql̥uːʁ = обманывать, лгать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>ɨtɨq = задний проход, дно, kɨvɨ = сердиться, злиться</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>ɨlʁavik = внутренности (используется мн.ч.), pukuxtuʁ = клевать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>pukuːk = клюв, iχsaquq = сердце, aɣʷitɨ = отойти, убрать aɣʷileːʁutɨ = освободить место</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>uvɨʁ = опрокинуть(ся), перевернуть(ся), uvɨχtɨ = опрокинуть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>anɨ = выйти</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="note" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="Naukanski" LANG_ID="Naukanski" LANG_LABEL="Naukanski"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

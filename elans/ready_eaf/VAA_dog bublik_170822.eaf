@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-08-08T03:33:59+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///E:/Naukan/Материалы/texts/VAA_dog bublik_170822.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./VAA_dog bublik_170822.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1735b498-5925-49ce-bfd1-55406f8ca012</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">161</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="72330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="74290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="76610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="81640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="82260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="84100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="84610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="85980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="87715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="91830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="93080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="96520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="96880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="98710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="101820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="103640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="105890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="105890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="106170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="109210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="110160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="118733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="118733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="121438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="123800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="126870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="126950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="128140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="128330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="129770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="129880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="131300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="131600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="135240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="135800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="147460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="148880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="152020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="152030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="153770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="153980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="156560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="157240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="158800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="159390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="162190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="164200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="165190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="172510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="173638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="176776"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="177999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="180850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="181672"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="phrase" TIER_ID="Text-txt-ynk">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>nɨŋaːma saːʃam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>katˈeːlˈnˈamɨŋ teːsˈima qiqmiʁaraɣaq mˈikaʁamalˈuku salˈi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>mˈikaʁapixsˈimalˈuku</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>qɨχs'us'uraʁaχtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>anlˈijisˈit aŋujaʁmˈitɨt qiqmˈiʁat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>asˈima bu:blˈilˈuq bu:blˈiq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>tawatɨn asˈima</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ɨsχa nˈequχtɨpqaʁanaq pij̥taqaχput</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>natɨn ipa ɨskuʁakaχputam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>iːtɨk neːҳuʁaqjaχtuq taweːnaq pi itɨq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE> upɨsˈiːtuq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>qɨnwat tawatɨn oːknaniʁaχput</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ɨtaqun l̥iʁan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>niʁifkaːʁaχput</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>iʁeːtaqaχput</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ɨmɨχtɨfkaːqa-χput anlˈiːtaqaχput sitlˈamun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>mikaʁamalˈuku nɨŋaq nɨŋaːma saːʃam teːsˈima katˈeːlˈnˈamɨŋ am</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>tawaːtɨn qɨnwat unɨχtuq wankunˈi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>panˈeːŋan ɨtaqo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>quleːnɨŋ ɣiɣʷiχsimaqʷ??</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>anlˈijituq</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>mˈikˈisqit pineqapˈij̆taqeːt </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>naqam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>saːqa l̥iŋan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ɛtɨ taɣʷa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>хватит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="note" PARENT_REF="Text-txt-ynk" TIER_ID="Translation-gls-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Мой зять, Саша</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>принёс с котельни щенка, когда он был ещё маленьким</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>когда он совсем был маленький</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Он был маленьким, беленьким.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Не растущие русские собаки.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Он назвал его бубликом. Бублик.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Так назвал.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Вот мы старались, чтобы он понимал команды.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Мы по-всякому учили его </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Он вроде бы понимал команды, только не выполнял.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>Не торопится.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>В итоге мы перестали обращать на него внимание.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Ну, так живет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Кормим его.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Варим для него.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Поим его, выгуливаем его.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Когда он был маленьким, зять мой зять Саша с котельни его принёс</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Так и остался у нас.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>До сих пор живет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Ему десять лет стало.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Не растет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Очень детей любит.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Ну вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Orthography-note-ru"/>
+    <TIER LINGUISTIC_TYPE_REF="text" TIER_ID="Interlinear-title-en">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Comment-note-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="morph"
+        PARENT_REF="Text-txt-ynk" TIER_ID="morpheme">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>nɨŋaː-ma saːʃa-m</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>kateːlna-mɨŋ teːsi-ma-a-a qiqmiʁa-raɣaq mikaʁa-malu-ku sali</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>mikaʁa-pixtɨ-imalu-ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>qɨχsu-su-raɣaq-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>anli-jiː-si-t aŋujaɣ-mi-t-a?-t qiqm̥iʁa-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>asi-ma-a-a bubli-lu-ku bublik</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>taɣʷatɨn asi-ma-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ɨsχa niːquʁ-tɨfka-qa:-naq-pixtɨ-aq-a-χput</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>natɨn iːpa ɨskuʁ-aq-a-χput=am</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>iːtɨk niːquʁ-aʁ-jaχ-t-u-q taɣʷeːnaq pi-jiː-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE> upɨsi-iː-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>qɨnɣʷat taɣʷatɨn oːk-naniʁ-∅-a-χput</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ɨt-aq-u-q l̥ɨɣan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>nɨʁɨ-fka-aq-a-χput</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>ɨʁa-eta?-aq-a-χput</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ɨmɨʁ-tɨfka-aq-a-χput anɣi-ta-aq-a-χput sil̥a-mun</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>mikaʁa-malu-ku nɨŋaq nɨŋaː-ma saːʃa-m teːsi-ma-a-a kateːlna-mɨŋ=am</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>taɣʷaːtɨn qɨnɣʷat unɨxt-∅-u-q ɣʷaŋkut?-mi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>paneːnaŋ ɨt-aq-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>qulɨ-aː-nɨŋ ɣiɣʷiχtɨ-ima-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>anli-ji:-t-u-q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>mikisqi-t piniqɨ-pixtɨ-aq-a-it </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>naqam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>sa-aq-aː l̥iːŋan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>ɛtɨ taɣʷa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="gloss"
+        PARENT_REF="Text-txt-ynk" TIER_ID="gloss">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>зять-ERG.POSS.1SG Саша-ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>котельная-INS принести-PST-IND-3SG.S.3SG.O собака-DIM быть.маленьким-CVB.DELIM-3SG.O ещё</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>быть.маленьким-INTS-CVB.DELIM-3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>белый-PEJ-DIM-PROX-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>расти-NEG.PRS-?-PL русский-INHAB-PL-?-PL собака-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>назвать-PST-IND-3SG.S.3SG.O бублик-CVB-3SG.O бублик</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>так назвать-PST-IND-3SG.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>PTCL понимать-CAUS-PAUS-INT-INTS-PRS-IND-1PL.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>как всякий учить-PRS-IND-1PL.S.3SG.O=CONJ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>наверное понимать-CONST-GOAL-PROX-IND-3SG только HES наверное сделать-NEG-?-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>ринуться-NEG-?-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>наконец так обращать.внимание-CEASE-PROX-IND-1PL.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>быть-PRS-IND-3SG конечно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>есть-CAUS-PRS-IND-1PL.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>варить-CAUS1-PRS-IND-1PL.S.3SG.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>пить-CAUS-PRS-IND-1PL.S.3SG.O гулять-CAUS1-PRS-IND-1PL.S.3SG.O улица-LAT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>быть.маленьким-CVB.DELIM-3SG.O зять зять-ERG.POSS.1SG Саша-ERG принести-PST-IND-3SG.S.3SG.O котельная-INS=CONJ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>так наконец остаться-PROX-IND-3SG 1PL.OBL-LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>до.сих.пор быть-PRS-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>десять-ERG.POSS.3SG-INS исполниться-PST-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>расти-NEG.PRS-?-IND-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>ребёнок-PL любить-INTS-PRS-IND-3PL.S.3PL.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>делать.что-PRS-INTRG.3SG может.быть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>наверное хватит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Phonetic-note-ynk">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="word"
+        PARENT_REF="Text-txt-ynk" TIER_ID="help">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>ЕА: nɨŋaː, nɨŋaq = зять</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>qɨχsuq = белый, -suk, -raɣaq</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>ЕА: anlijisaq = который не растет, anlijito = я не расту ЕА: aŋujaʁmit qiqm̥iʁat = русские собаки, а тут "у русских собаки". Словарь: aŋujak = русский</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ЕА: Очень хотели его научить, niːquχtɨ = понимать (в словаре это "передать кому-либо услышанное", может тогда все же сделать это одним казуативом тыфка...) с. 181</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>ЕА: взяли от английского school, а было бы ilisaʁvik = школа, ɨskuʁ-aq-u-q = он учится, ilitaquq = он научается, ilisimaqʷ = он знает, ilisimapixtuq = он очень знающий</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>ЕА: upɨtaquq = идет встречать, когда кто-то приходит с моря (в словаре upɨtɨ = броситься, ринуться)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ЕА: *oːk-a-χput (в словаре oːkɨ = обращать внимание), oːkɨχpɨneː = не трогай меня, okŋaɣutamkɨn = я не буду тебя трогать, okn̥animatŋa = они перестали обращать на меня внимание, okj̊itaχpɨna = ты на меня не обращаешь внимание. Без отрицания "мы помогаем, обращаем на него внимание" форму построить не получилось.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>ЕА: тут должен быть краткий е. В словаре ɨɣa = варить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ЕА ɨmɨ-ta-q-a-χput = поим спиртным. В словаре anɣiʁ = гулять</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>В словаре ɣʷaŋkuta = мы, unɨxtɨ = остаться, оставить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>В словаре нет, но и ВГ, и ЕА опознают panˈeːŋan как "до сих пор". </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>В словаре: qulɨ = десять, ɣiɣʷi = год (глагола от него нет)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>ЕА: anlival̥aχtuq = он слишком вырос</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>ЕА: piniqapixtaqaːt = они его очень любят. В словаре piniqɨ = любить и piniχqakɨ = любить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>ВГ: saɣʷa = что, saɣʷa-k = что.DU, saɣʷa-t = что.PL, saqa = что он делает? ЕА: saɣam = не знаю (может это saɣʷa-m = что-ERG) еще есть sajituq = делать.что-NEG-??-IND-3SG не делает</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>ɛtɨ в словаре нет, но ВГ и ЕА опознают как "наверное" или вроде того.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="note" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="Naukanski" LANG_ID="Naukanski" LANG_LABEL="Naukanski"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

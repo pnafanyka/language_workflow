@@ -1,0 +1,4 @@
+pandas
+pympi-ling # https://pypi.org/project/pympi-ling/#files
+numpy
+typing

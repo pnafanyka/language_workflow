@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-04-20T20:33:40+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/elena/Documents/00 Науканский проект/Науканский рабочее/Тексты 2022-2023/VAA_juggling_050822_elan.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./VAA_juggling_050822_elan.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0859edd6-2efb-465d-aa11-aefc6dbe765f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">173</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="13041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="25386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="25386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="31596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="31966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="34406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="37566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="39246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="39446"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="43461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="43461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="64961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="69196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="71806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="73596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="86376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="86966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="90756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="92134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="94973"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="phrase" TIER_ID="Text-txt-ynk">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>nuvuqami ɨsimal̥ta mikaʁamaluki mikisqit nukal̥peːʁat aʁnaʁat tenmaweːqeːt ɨl̥ɨχqamun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>ɨnkaːm natɨlŋut iːpa ɨnaʁat ɨnaʁalquseːʁat ɨnaʁat ilisimaːkaqaput mikaʁat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>maːtɨmi tawatɨlŋuʁnɨŋ ɨnaʁaːnanisimat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>inlupɨxtaʁaqut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>sawaqa l̥iːŋan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>ujʁaquvinʁaʁnɨŋ inlupɨxtaʁaqut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>aʁnaʁat unakɨn majoʁaqut taj̊pawkavɨk inlupɨxtaːʁumaːmɨxtɨk наверное</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>tawatɨn anleːqut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>uɣlat ɨnaʁaːt avaːʁumaːput eːtɨ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>mikisqit tawatɨn ɨnaʁaʁnanisimat maːtɨmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>сейчас уже дети наши так не играют</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="note" PARENT_REF="Text-txt-ynk" TIER_ID="Translation-gls-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Когда мы жили в Наукане, детей, мальчиков и девочек, с малолетства готовили к жизни.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>И разные игры мы знали с мелкими игрушками.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Сейчас такими игрушками перестали играть.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Они жонглируют одной рукой.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Как это...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Они мелкими камешками жонглируют.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Девочки с берега поднимаются наверх, жонглируя. они двое жонглируя</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Вот так растут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Многие игрушки мы забыли, наверное.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Дети перестали так играть сейчас.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Сейчас уже дети наши так не играют.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Orthography-lit-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Нувуқами ысималъта микаӷамалуки микисқит нукалъпе̄ӷат аӷнаӷат те̄нмаўе̄қе̄т ылъыҳқамун</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Ынка̄м натылңут ӣпа ынаӷат ынаӷалқусе̄ӷат ынаӷат илисима̄кақапут микаӷат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Ма̄тыми таўатылңуӷның ынаӷа̄нанисимат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Инлупыхтаӷақут...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Саўақа лъӣңан...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Уйӷақувинӷаӷның инлупыхтаӷақут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Аӷнаӷат унакын майоӷақут тайъпагавык инлупыхта̄ӷума̄мыхтык, наверное...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Таўатын анле̄қут.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Углат ынаӷа̄т ава̄ӷума̄пут е̄ты.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Микисқит таўатын ынаӷа̄нанисимат ма̄тыми.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Сейчас уже дети наши так не играют.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="text" TIER_ID="Interlinear-title-en"/>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Comment-note-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>При расшифровке Е. А. вместо формы mikaʁatɨql̥uki, которую не узнает, предлагает mikaʁamaluki. Е. А. предложила перевод формы ɨl̥ɨχqamun = к их будущей, дальнейшей жизни</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Е. А. вместо формы ɨnaʁal̥quseːʁat предлагает ɨnaʁatɨt. В. Г. опознает это как форму множественного числа от ɨnaʁaːn = игрушка. Е. А. вместо mikaʁatkɨl предлагает mikaʁat в смысле маленьких игрушечек, которые называются juɣaʁat: осколочки, камушки, вырезали уточек, зверушек из моржовых костей; хранили в мешочках</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Е. А. предложила еще вариант глагола с "перестать": sajunanisimaqʷ = он перестал танцевать. И форму "перестали играть" с другим прошедшим временем ɨnaʁaʁnanitukut.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Е. А. произносит ɨnlupɨxtaʁaqut при диктовке.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Так говорят, когда забыли и подбирают слово.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Е. А. вместо taj̊pavɨk предлагает taj̊paʁ/ɣ?avɨk = вверх, а вместо inlupɨxtaʁumaʁmɨxtɨk ("как будто их двое") предлагает форму inlupɨxtaʁɨl̥tɨŋ =  inlupɨxtaːʁ-lu-tɨŋ (жонглировать-CVB-3PL)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Е. А. предложила еще форму: anlimaːt / anlimaut = вот так выросли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Е. А.: либо это игрушки, либо игры. avaʁumaput = мы забыли, avaʁaput тоже мы забыли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Е. А.: должно быть maːtɨn, но потом соглашается с maːtɨmi.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="morph"
+        PARENT_REF="Text-txt-ynk" TIER_ID="morpheme">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>nuvuqa-mi ɨtɨ-imalu-ta mikaʁa-malu-ki mikisqi-t nukal̥peːʁa-t aʁnaʁa-t tenmawi-aq-a-et ɨl̥ɨq-xka-mun</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ɨnkaːm natɨlŋu-t iːpa ɨnaʁa-t ɨnaʁa-l̥qusiq-t ɨnaʁa-t ilisimaːk-aq-a-put mikaʁa-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>maːtɨmi tawatɨlŋuq-t-mɨŋ ɨnaʁaʁ-nanitɨ-ima-u-t </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>inlupɨxtaʁ-aq-u-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>sa-w-aq-a-a l̥iːŋan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ujʁa-quvinʁaq-t-mɨŋ inlupɨxtaʁ-aq-u-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>aʁnaʁa-t unakɨn majuʁ-aq-u-t taj̊paɣavɨk inlupɨxtaːʁ-umaʁ-mɨx-tɨk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>tawatɨn anli-aq-u-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>uɣla-t ɨnaʁaːn-t avaːʁʷ-uma-a-put eːtɨ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>mikisqi-t tawatɨn ɨnaʁaʁ-nanitɨ-ima-u-t maːtɨmi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="gloss"
+        PARENT_REF="Text-txt-ynk" TIER_ID="gloss">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Наукан-LOC быть-CVB.DELIM-1PL быть.маленьким-CVB.DELIM-3PL.O ребенок-PL мальчик-PL девочка-PL готовить-PRS-IND-3PL.S.3PL.O жизнь-DEST-LAT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>потом какой-PL всякий игра-PL игрушка-СОБИР-PL игра-PL знать-PRS-IND-1PL.S.3PL.O маленький-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>сейчас такой-PL-INS играть-TERM-PST-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>жонглировать-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>что-PRED-PRS-IND-3SG.S.3SG.O может.быть</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>камень-PIECE-PL-INS жонглировать-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>девочка-PL с.моря подниматься-PRS-IND-3PL вверх жонглировать-CVB.SMT-CORF??-3PL.S.2DU.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>так расти-PRS-IND-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>многое-PL игрушка-PL забывать-PST-IND-1PL.S.3PL.O наверное</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>ребенок-PL так играть-TERM-PST-IND-3PL сейчас</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Phonetic-note-ynk">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>nuˈvuqamʲi ɨˈsʲimal̥ʲta mʲikaˈʁatɨql̥ʲukʲi mʲiˈkʲisqit nuˈkal̥ʲpʲeːʁat aʁnaːʁat ˈtʲenmawɛːtqeːt ɨˈl̥ʲɨχqaˈmɨn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ɨnˈkam natɨlʲˈŋut iːˈpa ɨnaːˈʁat ɨnaʁalʲquseːʁat ɨnaːʁat iˈlʲisʲimaːˈkaqəput mʲikaˈʁatkɨlʲ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>ˈmatɨmʲi tawaːtlʲiŋuʁnɨŋ ɨˈnaʁaisʲi ɨˈnaʁaanaˈnʲisʲimat </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>inʲˈlʲupɨxˈtaʁaqut</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>ˈsawaqa ˈtlʲiŋan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ujʁa ujʁakuvʲinʁaʁnɨŋ inʲˈlʲupɨxˈtaʁaqut</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>aʁˈnaʁat uˈna uˈnakɨn maˈjoʁaqut taj̊ˈpawɨk taj̊ˈpaɣʷkavɨk inʲˈlʲupɨxˈtaʁam inʲˈlʲupɨxˈtaʁumaʁˈmɨxtɨk inʲlʲupɨxˈtaʁəm inʲlʲupɨxˈtaʁəmaʁəˈmɨxtɨk наверное</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>taˈwatɨn andlʲeːqut</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>uɣulʲat ɨˈnaʁaːt avaʁaqa avaʁa avaʁa aˈvaʁuˈmaput eːtɨ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>mʲiˈkʲisqit taˈwatɨn ɨˈnaʁaʁnaˈnʲisʲimat ˈmatɨmʲi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>сейчас уже дети наши так не играют</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="word"
+        PARENT_REF="Text-txt-ynk" TIER_ID="help">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ɨtɨ = быть, mikaʁaq  = маленький, mikisqiq = ребенок, teːnmawi = готовить(ся) (из чук.), ɨl̥ɨq = жизнь, -xkaq = отнесенный к будущему (С, 242) формы Е.А.: ɨl̥ɨʁmun = к жизни, ɨl̥ɨmni = в моей жизни, ɨl̥ɨχqamtɨnun = к нашей жизни, ɨl̥ɨχqeːmun = к их жизни, ɨl̥χat = их жизнь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>natɨlŋuq = какой, который, iːpa natɨlŋupik = разнообразный, -l̥qusiq = собирательное, ɨnaʁaq = игра, ɨnaʁaːl̥qusiq = игра (М75:504), ilisima = знать, ilisimakɨ = понимать, но в М75 ilisimaːkaːqa = он знает это</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>maːtɨmi = сегодня, сейчас, tawatɨlŋuq = такой, ɨnaʁaʁ- = играть, -naniʁ(a) = прекращающееся действие (М75:188, М67:52, J2001:126))</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>inlu = одна сторона или часть; жонглировать одной рукой; inlupɨxtaʁaqukut = мы играем</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>В. Г.: sawa = что это?, sawat = что это (мн. ч.), saqa = что он делает? Но В. Г. считает, что А. А. вспоминает камешки.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ujʁaq = камень, -quvinʁaq = часть (С:225) (М75:57 -kuvinʁaq)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>inlupɨxtaːʁ = жонглировать, unani = там на берегу, на море, unavɨk = туда на берег, на море, majuʁ- = подниматься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>anli = расти(ть)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>uɣlaɣ = много, avaːʁʷ- / awaːʁ- = забыть, iːtɨk = наверное (В.Г. = хорошо хоть), </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>maːtɨn = сегодня, нынче, сейчас, maːtɨmi = здесь, сейчас, в это время</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="note" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="Naukanski" LANG_ID="Naukanski" LANG_LABEL="Naukanski"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-08-12T02:19:47+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ra79gas/Desktop/Nauk 2023/Texts/текущее/wild potato/VAA_wild potato_170822.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./VAA_wild potato_170822.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:39d6693d-5080-487f-92e6-3025c5ac8987</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">55</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="19380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="19480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="29340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="34960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="37600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="42110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="45180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="46420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="50820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="51090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="55480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="56550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="60770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="61340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="62630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="63160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="65190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="65420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="68140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="68210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="70580"/>
+    </TIME_ORDER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="phrase" TIER_ID="Text-txt-ynk">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>aʁulaχqoquʁaqŋamɨŋ aʁanat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="note" PARENT_REF="Text-txt-ynk" TIER_ID="Translation-gls-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>эскимосский картофель</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>наверное картофель</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Когда идут в тундру за растениями женщины</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Корешки собирают</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Из мышиных домиков</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Всё не берут, только сколько (часть) берут</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Обменивают на что-то из своих продуктов, которые берут с собой в тундру (тормасок?)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Кладут туда из того что вззяли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Корешки</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Кладут туда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>мясо, что-то ещё</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>прямо из того что берут</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Orthography-note-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>taqoq-тормасок, правильнее форма с ʁ а не в последнем слове которая</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>l̥eqet ˈкладутˈ, суффикс -вик означает место, почему он тут, хз, мб "кладут туда"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="text" TIER_ID="Interlinear-title-en"/>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Comment-note-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>другие - unatat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>aʁulaχq-oquʁ-aqŋ̊a-mɨŋ -- сказали на разборе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="morph"
+        PARENT_REF="Text-txt-ynk" TIER_ID="morpheme">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>ul̥qi-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>qajɣʷa ul̥qi-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>aʁulaχqɨ-aʁ-aqŋ̊a-mɨŋ aʁna-t</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ul̥qi-t avuʁ-aq-a-it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>avɨsŋ̊aχa-t ɨti-vik-i:-nɨŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>iːʁuna-iːta tuɣu-ji-t-a-it taɣʷeːnaq qafsi-t tuɣu-aq-a-it </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>navɨʁutɨ-aq-a-it sa-mɨŋ taqo:-mɨxtɨ-nɨŋ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>l̥i-vik-aq-a-it taɣʷavɨk tuɣu-jaʁ-mɨxtɨ-nɨŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ul̥qi-t=am</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>l̥i-vik-aq-a-it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>nɨqɨ-t-mɨŋ sa-mɨŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>taqo:-mɨxtɨ-nɨŋ l̥ɨɣan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="gloss"
+        PARENT_REF="Text-txt-ynk" TIER_ID="gloss">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>эскимосский.картофель-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>разве эскимосский.картофель-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>собирать.растения-CONST-CVB.PREC-3PL женщина-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>эскимосский.картофель-PL собирать-PRS-IND-3PL.S.3PL.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>мышь-PL.ERG быть-LCT-PL.OBL.POSS.3PL-INS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>все-PL.ERG.POSS.3PL взять-NEG.PRS-?-IND-3PL.S.3PL.O только сколько-PL взять-PRS-IND-3PL.S.3PL.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>обменять-PRS-IND-3PL.S.3PL.O что-INS запас-PL.OBL.POSS.REFL.PL-INS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>класть-LCT-PST-IND-3PL.S.3PL.O туда взять-RES-PL.OBL.POSS.REFL.PL-INS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>эскимосский.картофель-PL=CONJ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>класть-LCT-PST-IND-3PL.S.3PL.O</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>мясо-PL-INS что-INS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>запас-OBL.POSS.REFL.PL-INS конечно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LANG_REF="Naukanski" LINGUISTIC_TYPE_REF="note"
+        PARENT_REF="Text-txt-ynk" TIER_ID="Phonetic-note-ynk">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="note" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="Naukanski" LANG_ID="Naukanski" LANG_LABEL="Naukanski"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
